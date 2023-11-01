@@ -5,10 +5,6 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<bst-p8105@gmail.com>
-    - icon: fa-github fa-lg
-      href: http://github.com/bst-p8105/
 output:
   html_document:
     theme: cerulean
